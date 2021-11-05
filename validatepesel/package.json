@@ -1,0 +1,22 @@
+{
+  "name": "validatepesel",
+  "version": "1.0.0",
+  "description": "You can check if pesel is a correct",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B4rtix/ValidatePesel.git"
+  },
+  "keywords": [
+    "pesel"
+  ],
+  "author": "Bartus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B4rtix/ValidatePesel/issues"
+  },
+  "homepage": "https://github.com/B4rtix/ValidatePesel#readme"
+}
